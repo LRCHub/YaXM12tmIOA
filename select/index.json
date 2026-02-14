@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "crave",
+  "base_artist": "TENDRE",
+  "createdAt": "2026-02-14T07:32:53.386131Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "crave",
+      "artist": "nothing,nowhere.",
+      "has_synced": false,
+      "path": "select/01_crave_nothing,nowhere..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/02_Crave_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Tove Lo",
+      "has_synced": false,
+      "path": "select/03_Crave_Tove_Lo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Love That I Crave",
+      "artist": "The Blow",
+      "has_synced": true,
+      "path": "select/04_The_Love_That_I_Crave_The_Blow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Love That I Crave - Stretegy's Strata Club Remix",
+      "artist": "The Blow",
+      "has_synced": false,
+      "path": "select/05_The_Love_That_I_Crave_-_Stretegy's_Strata_Club_Remix_The_Blow.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Love That I Crave (Strategy's Strata Club Remix)",
+      "artist": "The Blow",
+      "has_synced": false,
+      "path": "select/06_The_Love_That_I_Crave_(Strategy's_Strata_Club_Remix)_The_Blow.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/07_Crave_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crave Your Love",
+      "artist": "Mortal Love",
+      "has_synced": true,
+      "path": "select/08_Crave_Your_Love_Mortal_Love.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crave (MNEK Remix)",
+      "artist": "Madonna feat. Swae Lee",
+      "has_synced": true,
+      "path": "select/09_Crave_(MNEK_Remix)_Madonna_feat._Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Madonna + Swae Lee",
+      "has_synced": true,
+      "path": "select/10_Crave_Madonna_+_Swae_Lee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mountains Crave",
+      "artist": "Anna von Hausswolff",
+      "has_synced": true,
+      "path": "select/11_Mountains_Crave_Anna_von_Hausswolff.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cannibal Crave",
+      "artist": "Broken Hope",
+      "has_synced": false,
+      "path": "select/12_Cannibal_Crave_Broken_Hope.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Years & Years",
+      "has_synced": true,
+      "path": "select/13_Crave_Years_&_Years.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Paramore",
+      "has_synced": true,
+      "path": "select/14_Crave_Paramore.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crave You - Adventure Club Remix",
+      "artist": "Flight Facilities",
+      "has_synced": true,
+      "path": "select/15_Crave_You_-_Adventure_Club_Remix_Flight_Facilities.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crave You",
+      "artist": "Flight Facilities feat. Giselle",
+      "has_synced": false,
+      "path": "select/16_Crave_You_Flight_Facilities_feat._Giselle.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Crave",
+      "artist": "Nuno Bettencourt",
+      "has_synced": false,
+      "path": "select/17_Crave_Nuno_Bettencourt.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "crave",
+      "artist": "TENDRE",
+      "has_synced": false,
+      "path": "select/pl_01_crave_TENDRE.txt"
+    }
+  ]
+}
